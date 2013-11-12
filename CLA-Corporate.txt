@@ -1,7 +1,6 @@
-
                                Ushahidi
   Software Grant and Corporate Contributor License Agreement ("Agreement")
-                      http://www.ushahidi.org/licenses/
+            https://wiki.ushahidi.com/display/WIKI/Licenses
                               (v1.0)
 
 
@@ -20,7 +19,7 @@
    copyright and patent licenses thereto.
 
    If you have not already done so, please complete and sign, then scan and
-   email a pdf file of this Agreement to contact@ushahidi.org. Please read
+   email a pdf file of this Agreement to info@ushahidi.org. Please read
    this document carefully before signing and keep a copy for your records.
 
    Corporation name:    ________________________________________________
