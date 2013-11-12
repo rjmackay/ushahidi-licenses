@@ -1,6 +1,6 @@
                             Ushahidi Inc
      Individual Contributor License Agreement ("Agreement") V1.0
-                   http://www.ushahidi.org/licenses/
+          https://wiki.ushahidi.com/display/WIKI/Licenses
 
 Thank you for your interest in Ushahidi (the "Maintainer"). In order
 to clarify the intellectual property license granted with
